@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Gary Valverde
 
+<img width="2056" height="512" alt="portada1" src="https://github.com/user-attachments/assets/95bd0b4a-0f87-4ad1-bf59-eebfdc0c980b" />
+
+
 ### Data Engineer | Business Intelligence
 
 I design and develop data solutions focused on **data integration, ETL/ELT, data warehousing, data modeling and business intelligence**.
