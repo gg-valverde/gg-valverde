@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Gary Valverde
 
-<img width="2056" height="512" alt="portada1" src="https://github.com/user-attachments/assets/95bd0b4a-0f87-4ad1-bf59-eebfdc0c980b" />
-
+<img width="1578" height="383" alt="portada_4" src="https://github.com/user-attachments/assets/86f653cf-d6d5-4c40-a094-f7625246accc" />
 
 ### Data Engineer | Business Intelligence
 
