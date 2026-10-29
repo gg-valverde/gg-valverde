@@ -1,135 +1,56 @@
-# 👋 Hi, I'm Gary Valverde
+![Gary Valverde — Data Engineer](Portada_LinkedIn_Data_Engineer.png)
 
-<img width="1578" height="383" alt="portada_4" src="https://github.com/user-attachments/assets/86f653cf-d6d5-4c40-a094-f7625246accc" />
+# Gary Valverde
 
-### Data Engineer | Business Intelligence
+**Data Engineer · Business Intelligence · Bolivia**
 
-I design and develop data solutions focused on **data integration, ETL/ELT, data warehousing, data modeling and business intelligence**.
+Integro fuentes operativas y preparo datos para análisis en **banca, farmacia y retail**. Trabajo con SQL, Python, PySpark y SAP Data Services, desde procesos ETL hasta Data Warehouses, modelos dimensionales y soluciones de Power BI.
 
-My experience covers the complete data lifecycle, from data ingestion and transformation to the development of analytical models and Power BI solutions.
+[LinkedIn](https://www.linkedin.com/in/gary-german-valverde-quisbert-6b69231ab/) · [Contacto](mailto:gvalverdequisbert@gmail.com) · [Descargar CV en PDF](Gary_Valverde_CV_Data_Engineer_ES.pdf)
 
----
+## Proyecto destacado
 
-## 🧩 What I Do
+### [Voucher ETL — API REST a Oracle](https://github.com/gg-valverde/voucher-etl-oracle)
 
-```text
-Data Sources
-     │
-     ▼
-ETL / ELT
-     │
-     ▼
-Data Warehouse
-     │
-     ▼
-Data Modeling
-     │
-     ▼
-Semantic Models
-     │
-     ▼
-Power BI
-     │
-     ▼
-Business Intelligence
-```
+Extracción paginada de vouchers, normalización de fechas, carga por lotes a staging y consolidación con un `MERGE` set-based en Oracle.
 
-I work at the intersection of **Data Engineering and Business Intelligence**, building solutions that transform raw data into reliable and useful information for decision-making.
+**Qué puedes revisar:** código Python y SQL, arquitectura, decisiones técnicas, limitaciones, demo sin conexiones y pruebas automatizadas.
 
----
+`Python` `API REST` `Oracle SQL` `ETL` `Staging` `Batch processing`
 
-## 🛠️ Tech Stack
+El repositorio contiene una adaptación pública del proyecto compartido por su autor. Los ejemplos son ficticios. La demo funciona sin API ni Oracle; la integración conectada requiere un entorno de prueba y no se presenta como un despliegue reproducido públicamente.
 
-### Data Engineering
+## Experiencia profesional
 
-`Python` `PySpark` `SQL` `ETL / ELT` `Data Warehousing` `Data Lakes`
+| Organización | Trabajo con datos |
+| --- | --- |
+| **Nexocorp / Iproject Partners S.R.L.** · Jun 2026–actualidad | Ingesta y transformación con SAP Data Services, Python y Oracle SQL; Data Warehousing y modelos de Power BI para farmacia y retail. |
+| **Banco de Crédito Bolivia** · Mar–May 2026 | Procesos ETL con PySpark y Python para preparar bases analíticas en el área de Riesgos. |
+| **Banco Nacional de Bolivia** · Jun 2024–Feb 2026 | Integración de fuentes, SQL Server, reportes analíticos y controles de calidad de datos. |
+| **Econotec** · May 2019–May 2024 | Desarrollo de software, bases de datos relacionales y coordinación técnica. |
 
-### Data Platforms
+Las responsabilidades profesionales resumen mi trayectoria. El código y los datos internos de empleadores no forman parte de este portafolio.
 
-`Databricks` `Microsoft Fabric` `GCP`
+## Stack principal
 
-### Databases
+| Área | Tecnologías |
+| --- | --- |
+| Integración y transformación | SQL, Python, PySpark, SAP Data Services, ETL/ELT |
+| Bases de datos y modelado | Oracle, SQL Server, T-SQL, Data Warehousing, modelado dimensional |
+| Business Intelligence | Power BI, DAX, Power Query, modelos semánticos |
+| Calidad y entrega | Validación de datos, optimización de consultas, automatización y documentación |
 
-`Oracle` `SQL Server` `PostgreSQL` `Hive`
+## Cómo abordo una solución
 
-### Business Intelligence
+Comprender la fuente y la necesidad de negocio → definir transformaciones → validar integridad y consistencia → preparar un modelo analítico → documentar su uso y sus límites.
 
-`Power BI` `DAX` `Power Query` `Data Modeling` `Power BI Service` `Semantic Models`
+## Formación
 
-### Enterprise Data
+- Ingeniería de Sistemas Informáticos — Universidad Privada del Valle. Título profesional expedido en 2024.
+- Diplomado en Data Engineering — Universidad Privada San Francisco de Asís, 2026.
 
-`SAP Data Services`
+## Hablemos
 
----
+Interesado en oportunidades de **Data Engineering, ETL y Business Intelligence** en Bolivia y Latinoamérica.
 
-## 📊 Areas of Expertise
-
-* Data Engineering
-* Business Intelligence
-* ETL / ELT Development
-* Data Warehousing
-* Data Integration
-* Data Modeling
-* Data Quality
-* SQL & Database Development
-* Power BI Development
-* Semantic Models
-* Data Analytics
-
----
-
-## 🚀 Featured Projects
-
-### 📈 Voucher Analytics Platform
-
-End-to-end data solution integrating API data with a Data Warehouse and Business Intelligence layer.
-
-**Technologies:** Python · API · Oracle · SQL · ETL · Power BI
-
----
-
-### 🏢 Data Warehouse & ETL
-
-Data integration and transformation processes designed to consolidate operational information into analytical structures.
-
-**Technologies:** Oracle · SQL · ETL · Data Warehousing · Data Modeling
-
----
-
-### ⚡ Data Processing with PySpark
-
-Data processing pipelines focused on transformation, cleansing and preparation of large datasets for analytical consumption.
-
-**Technologies:** Python · PySpark · Databricks · SQL
-
----
-
-### 📊 Business Intelligence Solutions
-
-Interactive analytical solutions focused on KPI monitoring, data modeling and business analysis.
-
-**Technologies:** Power BI · DAX · Power Query · Semantic Models
-
----
-
-## 📚 Currently Building
-
-This portfolio is continuously growing with projects focused on:
-
-* Data Engineering
-* Data Warehousing
-* ETL / ELT
-* Python & PySpark
-* SQL & Oracle
-* Databricks
-* Microsoft Fabric
-* Power BI
-* Business Intelligence
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn
-* 🐙 GitHub
-* 📧 Email
+[gvalverdequisbert@gmail.com](mailto:gvalverdequisbert@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gary-german-valverde-quisbert-6b69231ab/)
